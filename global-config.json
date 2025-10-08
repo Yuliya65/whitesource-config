@@ -1,3 +1,5 @@
 {
-  "repoConfigMode": "createOnboardingPR"
+  "repoConfigMode": "createOnboardingPR",
+  "repoConfigFileName": ".mendio",
+  "CVSSv3": true
 }
